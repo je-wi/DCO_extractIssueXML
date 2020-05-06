@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>DCO</title>
+         </titleStmt>
+         <publicationStmt>
+          <Journal>
+            <PublisherName>Universit&#xE4;t Leipzig - Lehrstuhl f&#xFC;r Alte Geschichte</PublisherName>
+            <JournalTitle>Digital Classics Online</JournalTitle>
+            <Issn>2364-7957</Issn>
+          </Journal>         
+         </publicationStmt>
+         <sourceDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr">Französisch</language>
+            <language ident="en">Englisch</language>
+            <language ident="de">Deutsch</language>
+            <language ident="it">Italienisch</language>
+            <language ident="es">Spanisch</language>
+            <language ident="la">Latein</language>
+            <language ident="el">Griechisch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change who="jwg" when="2019-04-04">first created</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" subtype="general">
+            <p></p>
+         </div>
+         <div type="bibliography" subtype="journal" number="0" year="2015">
+            <listBibl>
+               <bibl type="publication" subtype="journal">
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/current</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/archive</url>  
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/about</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/about/submissions</url>  
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/about/editorialTeam</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/about/privacy</url>  
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/about/contact</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/board</url> 
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/herausgeber</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/faq</url>  
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/autoren</url>
+                  
+                  <!--
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/28f</url>
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/34</url>                  
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/32</url>                  
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/30f</url>  
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/26</url>
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/29</url>                  
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/35</url>                  
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/33</url>                    
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/31</url>
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/libraryFiles/downloadPublic/27</url>
+                  -->
+                                   
+               </bibl>
+            </listBibl>         
+         
+         </div>
+         
+         <div type="bibliography" subtype="issue" number="1,1" year="2015">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/1954/288</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/1954</url>
+               </bibl>
+               <bibl type="publication" subtype="title">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/20529/14316</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/20529</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/20529/14316</url>
+                  <doi>https://doi.org/10.11588/dco.2015.1.20529</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-205292</urn>
+               </bibl>               
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/20483/14270</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/20483</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/20483/14270</url>                  
+                  <doi>https://doi.org/10.11588/dco.2015.1.20483</doi>
+                  <urn> http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-204833</urn>
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/19393/14272</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/19393</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/19393/14272</url>                  
+                  <doi>https://doi.org/10.11588/dco.2015.1.19393</doi>
+                  <urn> http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-193934</urn>                  
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/18453/14273</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/18453</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/18453/14273</url>                  
+                  <doi>https://doi.org/10.11588/dco.2015.1.18453</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-184536</urn>                    
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/18641/14274</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/18641</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/18641/14274</url>                  
+                  <doi>https://doi.org/10.11588/dco.2015.1.18641</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-186418</urn>                     
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/20314/14271</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/20314</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/20314/14271</url>                  
+                  <doi>https://doi.org/10.11588/dco.2015.1.20314</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-203141</urn>                    
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/19281/14275</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/19281</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/19281/14275</url>                  
+                  <doi>https://doi.org/10.11588/dco.2015.1.19281</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-192819</urn>                      
+               </bibl>               
+            </listBibl>
+         </div>
+       
+         <div type="bibliography" subtype="issue" number="2,1" year="2016">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/2758/589</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/2758</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/28178/21870</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/28178</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/28178/21870</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.28178</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-281785</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/24187/21868</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/24187</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/24187/21868</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.24187</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-241875</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/23459/21866</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/23459</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/23459/21866</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.23459</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-234597</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/24491/21869</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/24491</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/24491/21869</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.24491</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-244918</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/22746/21865</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/22746</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/22746/21865</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.22746</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-227467</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/23825/21867</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/23825</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/23825/21867</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.23825</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-238257</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="report">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/28179/21871</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/28179</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/28179/21871</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.28179</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-281794</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="report">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/28180/21872</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/28180</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/28180/21872</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.1.28180</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-281801</urn>                      
+               </bibl>               
+            </listBibl>
+         </div>
+    
+         <div type="bibliography" subtype="issue" number="2,2" year="2016">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/3036/665</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/3036</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32384/26130</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32384</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32384/26130</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32384</doi>
+                  <urn> http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323841</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32385/26131</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32385</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32385/26131</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32385</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323855</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32386/26133</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32386</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32386/26133</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32386</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323864</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32387/26137</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32387</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32387/26137</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32387</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323871</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32388/26140</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32388</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32388/26140</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32388</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323886</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32413/26142</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32413</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32413/26142</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32413</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-324136</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32389/26141</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32389</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32389/26141</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.2.32389</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323899</urn>                      
+               </bibl>               
+            </listBibl>
+         </div>         
+                   
+         <div type="bibliography" subtype="issue" number="2,3" year="2016">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/3144/683</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/3144</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/34483/28169</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/34483</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/34483/28169</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.0.34483</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-344838</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/30875/28168</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/30875</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/30875/28168</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.0.30875</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-308751</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/33345/28171</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/33345</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/33345/28171</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.0.33345</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-333452</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32253/28170</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32253</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/view/download/32253/28170</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.0.32253</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-322539</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32315/28166</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32315</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32315/28166</url>                  
+                  <doi>https://doi.org/10.11588/dco.2016.0.32315</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-323152</urn>                      
+               </bibl>
+            </listBibl>
+         </div>
+          
+         <div type="bibliography" subtype="issue" number="3,1" year="2017">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/3490/734</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/3490</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/40181/33871</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40181</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40181/33871</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.1.40181</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-401816</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/40206/33869</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40206</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40206/33869</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.1.40206</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-402069</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/40180/33872</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40180</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40180/33872</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.1.40180</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-401805</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/33388/33873</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/33388</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/33388/33873</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.1.33388</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-333881</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/33381/33870</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/33381</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/33381/33870</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.1.33381</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-333815</urn>                      
+               </bibl>
+            </listBibl>
+         </div> 
+
+         <div type="bibliography" subtype="issue" number="3,2" year="2017">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/3634/743</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/3634</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/36870/35963</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/36870</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/36870/35963</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.36870</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-368705</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/35670/35964</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35670</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35670/35964</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.35670</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-356701</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/35671/35965</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35671</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35671/35965</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.35671</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-356714</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/37975/35966</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/37975</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/37975/35966</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.37975</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-379754</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/35822/35967</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35822</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35822/35967</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.35822</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-358221</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/35896/35968</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35896</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35896/35968</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.35896</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-358960</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/39417/35972</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/39417</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/39417/35972</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.39417</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-394179</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/35951/35969</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35951</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35951/35969</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.35951</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-359517</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/36017/35970</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/36017</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/36017/35970</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.36017</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-360176</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/39433/35971</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/39433</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/39433/35971</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.39433</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-394334</urn>                      
+               </bibl>               
+            </listBibl>
+         </div>
+         
+         <div type="bibliography" subtype="issue" number="3,3" year="2017">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/3685/749</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/3685</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/43835/37346</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/43835</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/43835/37346</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.43835</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-438359</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/38374/37345</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/38374</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/38374/37345</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.38374</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-383745</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/40185/37355</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40185</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/40185/37355</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.40185</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-401853</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/35893/37354</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35893</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/35893/37354</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.35893</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-358939</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="report">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/42902/37353</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/42902</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/42902/37353</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.42902</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-429023</urn>                      
+               </bibl>
+            </listBibl>
+         </div>
+                
+         <div type="bibliography" subtype="issue" number="4,1" year="2018">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/3911/795</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/3911</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/48489/41867</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48489</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48489/41867</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.48489</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-484891</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/48490/41863</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48490</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48490/41863</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.48490</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-484900</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/47289/41868</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/47289</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/47289/41868</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.47289</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-472897</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/48491/41870</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48491</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48491/41870</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.48491</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-484919</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/48492/41866</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48492</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48492/41866</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.48492</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-484922</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/48493/41865</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48493</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/48493/41865</url>                  
+                  <doi>https://doi.org/10.11588/dco.2017.0.48493</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-484938</urn>                      
+               </bibl>
+            </listBibl>
+         </div> 
+        
+         <div type="bibliography" subtype="issue" number="4,2" year="2018">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/4134/819</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/4134</url>
+               </bibl>
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/57372/48810</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/57372</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/57372/48810</url>                  
+                  <doi>https://doi.org/10.11588/dco.2018.2.57372</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-573721</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/52124/48812</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/52124/48812</url>                  
+                  <doi>https://doi.org/10.11588/dco.2018.2.52124</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-521245</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/32932/48813</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32932</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/32932/48813</url>                  
+                  <doi>https://doi.org/10.11588/dco.2018.2.32932</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-329325</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/45878/48814</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/45878</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/45878/48814</url>                  
+                  <doi>https://doi.org/10.11588/dco.2018.2.45878</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-458785</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/50503/48811</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/50503</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/50503/48811</url>                  
+                  <doi>https://doi.org/10.11588/dco.2018.2.50503</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-505035</urn>                      
+               </bibl>
+            </listBibl>
+         </div>                   
+                  
+         <div type="bibliography" subtype="issue" number="5,1" year="2019">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/4470/841</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/4470</url>
+               </bibl>              
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/63093/55670</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/63093</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/63093/55670</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.1.63093</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-630930</urn>                      
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/63093/55670/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/63093</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/63093/55670</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.1.63093</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-630930</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/59356/55669/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/59356</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/59356/55669</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.1.59356</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-593562</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/60564/55668/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/60564</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/60564/55668</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.1.60564</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-605649</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/61700/55667/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/61700</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/61700/55667</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.1.61700</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-617007</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/61701/55666/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/61701</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/61701/55666</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.1.61701</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-617012</urn>                      
+               </bibl>             
+            </listBibl>
+         </div> 
+
+          <div type="bibliography" subtype="issue" number="" year="">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/download/5038/975</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/issue/view/5038</url>
+               </bibl>              
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/72004/65402/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/72004</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/72004/65402</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.2.72004</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-720045</urn>                      
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/72004/65402/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/72004</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/72004/65402</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.2.72004</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-720045</urn>                      
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/72018/65418/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/72018</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/72018/65418</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.2.72018</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-720184</urn>                      
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/64731/65400/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/64731</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/64731/65400</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.2.64731</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-647317</urn>                      
+               </bibl>               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/68127/65399/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/68127</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/68127/65399</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.2.68127</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-681274</urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/download/63862/65401/</url>
+                  <url type="view">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/63862</url>
+                  <url type="viewPDF">https://journals.ub.uni-heidelberg.de/index.php/dco/article/view/63862/65401</url>                  
+                  <doi>https://doi.org/10.11588/dco.2019.2.63862</doi>
+                  <urn>http://nbn-resolving.de/urn:nbn:de:bsz:16-dco-638626</urn>                      
+               </bibl>
+            </listBibl>        
+         </div> 
+
+          <div type="bibliography" subtype="issue" number="" year="">
+            <listBibl>
+               <bibl type="publication" subtype="completeIssue">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+               </bibl>
+               
+               <bibl type="publication" subtype="editorial">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>                    
+               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>
+               
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>
+               <bibl type="publication" subtype="article">
+                  <url type="downloadPDF"></url>
+                  <url type="view"></url>
+                  <url type="viewPDF"></url>                  
+                  <doi></doi>
+                  <urn></urn>                      
+               </bibl>
+            </listBibl>        
+         </div> 
+      </body>
+   </text>
+</TEI>
