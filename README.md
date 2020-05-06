@@ -29,4 +29,5 @@ extracted/
 source/
   dco_4_1.xml
 ```
-Due to limitation of filesize on github there is only one XML-file as example. Usually the DCO issue files are up to 300 MB.
+Due to limitation of filesize on github there is only one XML-file as example. 
+Usually the DCO issue files are up to 300 MB.
