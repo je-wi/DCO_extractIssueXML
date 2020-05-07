@@ -31,7 +31,7 @@ source/
   dco_4_1.xml
 ```
 Due to limitation of filesize on github there is only one XML-file as example. 
-Usually the DCO issue files are up to 300 MB.
+Usually the DCO issue files are up to 300 MB. The plugin exports not only all relevant metadata, it includes all article files (HTML, PDF, etc.) and suplementary files embedded within the XML document in Base64 encoding.
 
 ## dco_urls.xml
-Own XML with all published DCO issues.
+Own XML with URLs of all published DCO issues.
